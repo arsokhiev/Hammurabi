@@ -1,3 +1,10 @@
+# IDE user specific files
+.vs/
+.idea/
+
+Hammurabi/Debug/*
+Hammurabi/Release/*
+
 # Prerequisites
 *.d
 
